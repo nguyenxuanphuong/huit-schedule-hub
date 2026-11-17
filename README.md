@@ -40,8 +40,8 @@
      ```
 
 5. **Truy cập ứng dụng**:
-   - Trang Quản trị & Phân lịch: `http://huit-schedule.test/index.php`
-   - Cổng Giảng viên: `http://huit-schedule.test/lecturer.php`
+   - Trang Quản trị & Phân lịch: `http://huit-schedule.test:8080/index.php`
+   - Cổng Giảng viên: `http://huit-schedule.test:8080/lecturer.php`
 
 ## Giấy phép
 Dự án phát hành theo giấy phép [MIT](LICENSE).
